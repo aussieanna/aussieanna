@@ -1,16 +1,17 @@
 ### Hi there 👋
+I am a data analyst/epidemiologist based in Australia.
 
-<!--
-**aussieanna/aussieanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :thumbsup: I’m currently working on the Australian Burden of Disease Study and COVID-19 :mask:
+- 🌱 I’m currently learning to code and produce visualisations using R
+- 💬 Ask me about: 
+  - Burden of disease 
+  - Respiratory disease 
+  - Data visualisation 
+  - Epidemiology
+- 📫 How to reach me: @annareynolds01 on Twitter 
+- 😄 Pronouns: she/her/hers
+- :tennis: I love to play tennis
 
-Here are some ideas to get you started:
+I :heart: :coffee:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://aussieanna.github.io/index.html
